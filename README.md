@@ -1,8 +1,8 @@
 # Patio-Juego
 Patio de juegos con Python + Flask
 
-*
-Para ejecutar esta app necesitas:
+
+* Para ejecutar esta app necesitas:
 -Tener instalado Python
 -Un entorno virtual activo 
 
