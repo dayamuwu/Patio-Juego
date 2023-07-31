@@ -17,7 +17,7 @@ Ahora instalara los paquetes que se encuentran en el archivo requirements.txt
 Ejecutando el siguiente comando: 
   pip install -r requirements.txt
 
-una vez todo instalado, ejecutar el siguiente comanod
+una vez todo instalado, ejecutar el siguiente comando
   python server.py 
 
 Esto nos enviara a la siguiente URL: http://127.0.0.1:5000
